@@ -3,7 +3,7 @@
 <p align="center">
   I currently work as a database administrator, but I have also been exploring Data Science.  I'm based in North Platte, Nebraska.
   <br />
-  I'm passionate about expanding my understanding of data science and programming in general.  I graduated with a bachelor's degree in Computer Information Systems in 2013; however, since it was not a direct computer science degree, my experience with programming concepts was limited.  I've recently fell back in love with programming and am trying to expand my knowledge, This led to a pursuit in a masters of data science degree.  
+  I'm passionate about expanding my understanding of data science and programming in general.  I graduated with a bachelor's degree in Computer Information Systems in 2013; however, since it was not a direct computer science degree, my experience with programming concepts was limited.  I've recently fallen back in love with programming and am trying to expand my knowledge. This led to a pursuit of a master's degree in data science.  
 </p>
 
 ---
@@ -43,11 +43,11 @@ Here are some of the projects I'm most proud of.
     * **Description:** This was a classification project to identify beans using metrics gathered from a high-def camera.    
     
 
-* **2. [Recommender system](link-to-your-repo-or-demo)**
+* **2. [Recommender system](https://github.com/Kingston825/Portfolio/tree/1abcbe08ff8e3afbad37816597ff8547244ea884/movie%20recommendataion%20system)**
     * **Description:** This was a recommender system for movies. This was a high-level example of a recommender system
   
 
-* **3. [Preventative Maintenancew](link-to-your-repo-or-demo)**
+* **3. [Preventative Maintenance]((https://github.com/Kingston825/Portfolio/tree/b4b9f69dd617b0b38009917ceab6765565a7dc47/preventative%20maint))**
     * **Description:** This was a shot at using predictive maintenance to replace scheduled maintenance. This implements stacking multiple classification models   
  
 
