@@ -47,7 +47,7 @@ Here are some of the projects I'm most proud of.
     * **Description:** This was a recommender system for movies. This was a high-level example of a recommender system
   
 
-* **3. [Preventative Maintenance]((https://github.com/Kingston825/Portfolio/tree/b4b9f69dd617b0b38009917ceab6765565a7dc47/preventative%20maint))**
+* **3. [Preventative Maintenance](https://github.com/Kingston825/Portfolio/tree/b4b9f69dd617b0b38009917ceab6765565a7dc47/preventative%20maint)**
     * **Description:** This was a shot at using predictive maintenance to replace scheduled maintenance. This implements stacking multiple classification models   
  
 
