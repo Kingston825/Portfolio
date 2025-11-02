@@ -12,7 +12,6 @@
 
 * 🔭 I’m currently working at North Platte Public Schools as a database admin
 * 👯 I’m looking to collaborate on Data Science/Data Engineering Projects
-* 🤔 I’m looking for help with **[A specific problem or technology]**.
 * 💬 Ask me about my SQL projects. I have a separate repository for work, but I don't host it publicly.
 * 📫 How to reach me: kkingston@nppsd.org.
 * ⚡ Fun fact: I have two young boys and two dogs.
@@ -40,7 +39,7 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I'm most proud of.
 
-* **1. [Bean Classification](link-to-your-repo-or-demo)**
+* **1. [Bean Classification](https://github.com/Kingston825/Portfolio/tree/02f71efa37b15933eff373e6ab1b0e6c53fffb35/Bean_classification)**
     * **Description:** This was a classification project to identify beans using metrics gathered from a high-def camera.    
     
 
